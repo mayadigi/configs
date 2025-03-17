@@ -1,0 +1,1 @@
+vless://baec6a99-6b3b-4a31-9701-448b7a573c43@hzwu8m8h9e29.dopwiz.com:443?hiddify=1&sni=hzwu8m8h9e29.dopwiz.com&type=httpupgrade&alpn=h2&path=/TqOPDGmE7qBdU8Bjj7gNk0L&host=hzwu8m8h9e29.dopwiz.com&encryption=none&fp=chrome&headerType=http&security=tls#www.yahoo.com%20tls_h2%20httpupgrade%20direct%20vless
